@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .products{
+    margin-right: 0 !important;
+  }
+  .delete{
+    margin-top: -40 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    
+  }
+  
+  #productsName p{
+    margin-bottom: 0 !important;
+  }
+  
+  .container {
+    margin: 50 0 50 0;
+  }
